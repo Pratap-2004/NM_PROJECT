@@ -1,1 +1,1 @@
-**Desease Prediction from Symptoms**
+**Disease Prediction from Symptoms**
